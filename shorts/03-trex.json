@@ -1,0 +1,14 @@
+{
+  "voice": "es-MX-JorgeNeural",
+  "rate": "+8%",
+  "extra": [0, 3.6, 0, 0, 0, 0.3, 1.5],
+  "scenes": [
+    "Un T-Rex aparece en tu calle.",
+    "Tienes tres segundos: ¿corres, te escondes o agarras la bici?",
+    "¿Correr? Las películas te mintieron: un T-Rex adulto no podía correr rápido sin romperse las piernas. Iba más o menos como una bici tranquila.",
+    "¿Esconderte? Mala idea. Tenía un olfato tan bueno que te encontraría detrás de cualquier puerta.",
+    "¿La bici? Tu mejor opción. Pedaleando fuerte, lo dejas atrás.",
+    "Pero si te alcanza... su mordida partía huesos como si fueran galletas.",
+    "¿Tú qué eliges? Comenta VIDEO si quieres aprender a hacer videos así para tu negocio."
+  ]
+}

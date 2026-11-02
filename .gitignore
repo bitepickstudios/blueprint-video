@@ -1,0 +1,31 @@
+# Dependencias y salidas que se regeneran con los scripts
+video/node_modules/
+video/out/
+blender/render*/
+blender/render_log.txt
+blender/test/
+blender/*.png
+__pycache__/
+*.blend1
+*.log
+*.wav
+*.m4v
+
+# After Effects: los .aep, capas y pruebas se rearman con los .jsx
+ae/*.aep
+ae/*.png
+ae/a4/
+ae/sb4/
+ae/*registros/
+ae/Almacenamiento autom*/
+ae/log*.txt
+ae/probe*
+ae/test.*
+
+# Videos finales: pasan el límite de 100 MB de GitHub. Se suben solo las vistas previas.
+videos/*.mp4
+!videos/*-preview.mp4
+
+# Material de referencia de terceros
+inspo/
+*.lnk

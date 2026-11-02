@@ -1,0 +1,14 @@
+{
+  "voice": "es-MX-JorgeNeural",
+  "rate": "+8%",
+  "extra": [0, 3.6, 0, 0, 0, 0, 1.5],
+  "scenes": [
+    "Te encogiste al tamaño de una hormiga. Hay cuatro cosas que pueden matarte... y la última, nadie la ve venir.",
+    "Peligro uno: te resbalas del borde de la mesa. ¿Sobrevives?",
+    "¡Sí! A este tamaño, el aire te frena tanto que podrías caer de cualquier altura sin lastimarte.",
+    "Peligro dos: el hambre. Tu cuerpo diminuto pierde calor tan rápido que tendrías que comer casi tu propio peso cada día.",
+    "Peligro tres: una araña. Para ella, eres el almuerzo perfecto. ¡Corre!",
+    "Y el peligro cuatro, el más inesperado: una gota de agua. No te aplasta... te atrapa. A este tamaño, el agua se pega como pegamento, y no puedes salir.",
+    "¿En cuál habrías perdido tú? Comenta VIDEO si quieres aprender a hacer videos así para tu negocio."
+  ]
+}
